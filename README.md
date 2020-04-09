@@ -3,7 +3,7 @@
 #### Teaching Assistant Project I made for CSE 331 @ MSU
 
 
-The pplication solution only is provided in DoublyLinkedList.py. 
+The application solution only is provided in DoublyLinkedList.py. 
 
 count_unique:
 
