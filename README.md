@@ -11,6 +11,7 @@ Takes a linked list and condenses it to represent the unique elements with the c
         proceeding it. When an element occurs once, do not supply the value of its count.
         
 Examples:
+  
             input:  a->a->a->b->b->c->c->d
             output: a->3->b->2->c->2->d->1
             
